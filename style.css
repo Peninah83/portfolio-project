@@ -7,11 +7,15 @@
   body {
     margin: 60px auto;
     max-width: 800px;
+    background: beige;
   }
   
+
   h1,
   h2,
   h3 {
+    font-family: "Playfair", serif;
+    font-weight: bold;
     text-align: center;
     margin: 0;
   }
@@ -24,7 +28,11 @@
     font-size: 48px;
   }
   
-  h3 {
+
+  h3 { 
+    font-family: "Poppins", serif;
+    font-weight: 700;
+
     font-size: 24px;
     opacity: 0.7;
   }

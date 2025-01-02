@@ -10,7 +10,7 @@
     font-family: var(--default-font-family);
     margin: 60px auto;
     max-width: 800px;
-    background: white;
+    background: bisque;
   }
   
 
@@ -51,57 +51,6 @@
     text-align: center;
   }
   
-  .navigation-links {
-    display: flex;
-    margin-top: 40px;
-    justify-content: center;
-  }
-  
-  .navigation-links a {
-    margin: 20px;
-    border-radius: 4px;
-    padding: 20px 15px;
-    text-decoration: none;
-    text-transform: capitalize;
-  }
-  
-  .contact-link {
-    background: var(--primary-color);
-    box-shadow: var(--box-shadow);
-    color: white;
-  }
-  
-  .about-link {
-    color: var(--primary-color);
-    border: 1px solid var(--primary-color);
-  }
-  
-  .homepage-link {
-    color: var(--primary-color);
-    text-align: center;
-    display: block;
-  }
-  
-  .about-paragraphs {
-    display: flex;
-    margin: 30px 0;
-  }
-  
-  .about-paragraphs p {
-    margin: 10px;
-  }
-  
-  .email-link {
-    display: flex;
-    justify-content: center;
-    color: var(--primary-color);
-    font-size: 28px;
-    text-decoration: none;
-  }
-  
-  .email-link:hover {
-    text-decoration: underline;
-  }
   
   .hero {
     background: var(--secondary-color);
@@ -138,7 +87,8 @@
 border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
-  padding: 15px 30px;
+  padding: 18px 30px;
+
 }
 .project-description{
   padding: 120px 60px; 

@@ -71,6 +71,28 @@
   line-height: 2;
   color: #272142;
 }
+
+
+.about-section h1{
+  font-size: 64px;
+  line-height: 80px;
+
+}
+.about-section h2{
+  font-size:18px ;
+  font: var(--default-font-family);
+}
+
+
+
+
+
+
+
+
+
+
+
 .btn-branding{
   background: var(--branding-color);
   border-radius: 4px;

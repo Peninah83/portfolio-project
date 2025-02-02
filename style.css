@@ -60,7 +60,7 @@ h4 {
   .hero {
     background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .hero p{
   font-family: poppins;
@@ -79,7 +79,7 @@ h4 {
 
 .content-container{
   padding: 0;
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content{
